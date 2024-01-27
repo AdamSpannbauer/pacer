@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pacer/static/css/main.3045e131.chunk.css",
+    "main.js": "/pacer/static/js/main.e7165c8c.chunk.js",
+    "main.js.map": "/pacer/static/js/main.e7165c8c.chunk.js.map",
+    "runtime-main.js": "/pacer/static/js/runtime-main.2c07fd47.js",
+    "runtime-main.js.map": "/pacer/static/js/runtime-main.2c07fd47.js.map",
+    "static/js/2.200d2df0.chunk.js": "/pacer/static/js/2.200d2df0.chunk.js",
+    "static/js/2.200d2df0.chunk.js.map": "/pacer/static/js/2.200d2df0.chunk.js.map",
+    "index.html": "/pacer/index.html",
+    "precache-manifest.4e86c9ee843e05d79e1901c55c10c5bc.js": "/pacer/precache-manifest.4e86c9ee843e05d79e1901c55c10c5bc.js",
+    "service-worker.js": "/pacer/service-worker.js",
+    "static/css/main.3045e131.chunk.css.map": "/pacer/static/css/main.3045e131.chunk.css.map",
+    "static/js/2.200d2df0.chunk.js.LICENSE.txt": "/pacer/static/js/2.200d2df0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c07fd47.js",
+    "static/js/2.200d2df0.chunk.js",
+    "static/css/main.3045e131.chunk.css",
+    "static/js/main.e7165c8c.chunk.js"
+  ]
+}
