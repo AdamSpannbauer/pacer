@@ -6,6 +6,10 @@ body {
   background-color: #555555;
 }
 
+label {
+  color: #ffffff;
+}
+
 #buttons-container {
   display: flex;
   flex-direction: column;
